@@ -1,0 +1,5 @@
+//npm i @babel/preset-env -D
+
+{
+    "presets":["@babel/preset-env"]
+}
